@@ -53,8 +53,7 @@ https://docs.aiogram.dev/en/latest/
 ### Add in .env
 
 ```ini
-OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-TELEGRAM_BOT_TOKEN=xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 ```
 
 
